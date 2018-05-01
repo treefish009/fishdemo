@@ -1,0 +1,9 @@
+body {
+  background-color: #e9232c;
+}
+body .container {
+  width: 1280px;
+}
+body .container .row {
+  padding: 0 955px;
+}
